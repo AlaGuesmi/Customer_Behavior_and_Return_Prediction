@@ -3,42 +3,42 @@ This project simulates an e-commerce dataset to explore customer behavior and pr
 
 🧰 **Tools & Libraries Used**
 
-Pandas & NumPy for data manipulation and cleaning
+- Pandas & NumPy for data manipulation and cleaning
 
-Matplotlib & Seaborn for visual analysis
+- Matplotlib & Seaborn for visual analysis
 
-Scikit-learn for encoding, scaling, modeling, and evaluation
+- Scikit-learn for encoding, scaling, modeling, and evaluation
 
 📋 **Dataset Overview**
 
 Features include:
 
-Customer Info: Age, Gender, Country
+- Customer Info: Age, Gender, Country
 
-Purchase Details: Product Category, Purchase Amount, Rating, Purchase Date
+- Purchase Details: Product Category, Purchase Amount, Rating, Purchase Date
 
-Customer Interaction: Review, Loyalty Member, Returned
+- Customer Interaction: Review, Loyalty Member, Returned
 
 Some values include:
 
-Missing data in Age and Rating
+- Missing data in Age and Rating
 
-Outliers in PurchaseAmount
+- Outliers in PurchaseAmount
 
-Noisy dates in PurchaseDate
+- Noisy dates in PurchaseDate
 
 🔄 **Project Workflow**
 
-Data Loading & Exploration
+- Data Loading & Exploration
 
-Handling Missing Values & Outliers
+- Handling Missing Values & Outliers
 
-Encoding Categorical Variables
+- Encoding Categorical Variables
 
-Feature Engineering & Transformation
+- Feature Engineering & Transformation
 
-EDA: uncovering patterns in returns and purchases
+- EDA: uncovering patterns in returns and purchases
 
-Modeling: Random Forest for return prediction
+- Modeling: Random Forest for return prediction
 
-Model Evaluation: Accuracy and classification report
+- Model Evaluation: Accuracy and classification report
